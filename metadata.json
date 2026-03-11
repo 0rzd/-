@@ -1,0 +1,5 @@
+{
+  "name": "Family Records Management",
+  "description": "A cross-platform application for managing and inventorying family records with PDF and Excel export.",
+  "requestFramePermissions": []
+}
